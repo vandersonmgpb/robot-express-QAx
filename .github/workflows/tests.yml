@@ -29,4 +29,3 @@ jobs:
       run: |
         node --version
         python --version
-        pip -- version
